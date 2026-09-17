@@ -1,3 +1,9 @@
+![Uploading image.png…]()
+<img width="540" height="1200" alt="WhatsApp Image 2026-09-17 at 10 50 35" src="https://github.com/user-attachments/assets/0e340255-e9fb-4f62-a9d4-4ef4b207a5e4" />
+<img width="540" height="1200" alt="WhatsApp Image 2026-09-17 at 10 49 42" src="https://github.com/user-attachments/assets/48b9c4c4-0992-43ab-8ab3-fbfd74ecbf29" />
+
+
+
 # 🌤️ WeatherApp
 
 A native Android weather app built in **Java**, with a Sinhala-language UI, powered by the free [Open-Meteo](https://open-meteo.com/) API (no API key required).
